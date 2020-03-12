@@ -34,7 +34,7 @@ from the package you down loaded. You can either use “Archive Manger” to get
 
 Once you find  “/linux/lib/native/arm64/release/libdepthengine.so.2.0” drag it into this location “/lib/aarch64-linux-gnu/"
 
-$sudo chmod a+rwx /lib/aarch64-linux-gnu    Will Give permmision to drag ”libdepthengine.so.2.0” into file.
+$sudo chmod a+rwx /lib/aarch64-linux-gnu            Will Give permmision to drag ”libdepthengine.so.2.0” into file.
 
 10. $git clone https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git
 
