@@ -56,13 +56,16 @@ and just use the “Clone or Download button” to get it
 
 15. Copy 'scripts/99-k4a.rules' from “/home/nano/Azure-Kinect-Sensor-SDK/scripts 
 
-to '/etc/udev/rules.d/' you may need this:$sudo chmod a+rwx  /etc/udev/rules.d  for filr permmision.
+to '/etc/udev/rules.d/' you may need this:$sudo chmod a+rwx  /etc/udev/rules.d  for file permmision.
 
 16.You should still be in the build folder $~/Azure-Kinect-Sensor_SDK/build$./bin/k4aviewer
 
 Will start the viewer. If the Viewer dosent reconize Kinect close Viewer and unplug and plug back in to  Kinect 
 
 and restart Viewer.
+
+
+GOOD LUCK
 
 
 
