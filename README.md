@@ -3,7 +3,7 @@ Instructions to Run Azure For Kinect on Jetson Nano
 
 Here are the Instructions to get the Azure for Kinect to run on the Jetson nano.
 
-This is at the very early stages of devlopment so things will probably change later on.
+Thanks to the Azure for Kinect Team for making dreams come true.
 
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK Good place to start for  answers.
 
